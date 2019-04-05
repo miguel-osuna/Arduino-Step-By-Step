@@ -66,8 +66,6 @@
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BMP085_U.h>
-
-
    
 Adafruit_BMP085_Unified bmp = Adafruit_BMP085_Unified(10085);
 
